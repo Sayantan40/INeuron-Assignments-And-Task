@@ -1,2 +1,2 @@
 
-## Pthon Screening Assignment .
+## Python Screening Assignment .
